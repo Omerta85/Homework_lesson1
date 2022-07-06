@@ -1,0 +1,20 @@
+ul > li {
+    background: yellow;
+    color: blue;
+}
+p{
+    background: green;
+    color: red;
+}
+h1{
+    background: aquamarine;
+    color: firebrick;
+}
+h2{
+    background: fuchsia;
+    color: cornsilk;
+}
+figure {
+    min-width: 200px;
+    max-width: 400px;
+}
